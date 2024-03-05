@@ -1,3 +1,3 @@
 # Introduction-to-Machine-Learning-for-Energy
 
-This repo contains the python codes for course ICPE 639. 
+Materials for the course ICPE 639. Large files that cannot be hosted here can be found on Canvas. 
