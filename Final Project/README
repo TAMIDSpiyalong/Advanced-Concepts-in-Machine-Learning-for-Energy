@@ -1,1 +1,11 @@
+Instructions:
+1. Load the data Auto.csv and preprocess the data.
+2. With "mpg" as the target, build predictors. 
+3. Evaluate and visualize the predictor performance
 
+The submission will be a notebook (.ipynb), with sufficient explanation like the class materials.
+
+Please use the "Auto" dataset from https://www.kaggle.com/datasets/piyalong/dataset-for-icpe-639. 
+This dataset was taken from the StatLib library, which is maintained at Carnegie Mellon University. 
+The dataset was used in the 1983 American Statistical Association Exposition. 
+The data set has 392 observations with 9 variables.
