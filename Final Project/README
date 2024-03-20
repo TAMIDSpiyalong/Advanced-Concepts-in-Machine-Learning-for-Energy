@@ -1,6 +1,6 @@
 Instructions:
 1. Load the data Auto.csv and preprocess the data.
-2. With "mpg" as the target, build predictors. 
+2. With "mpg" as the target, build predictors. These predictor can be any kind that is covered in this class.
 3. Evaluate and visualize the predictor performance
 
 The submission will be a notebook (.ipynb), with sufficient explanation like the class materials.
