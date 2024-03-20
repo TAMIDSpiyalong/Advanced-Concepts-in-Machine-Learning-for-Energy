@@ -1,8 +1,7 @@
 -Instructions:
 1. Load the data Auto.csv and preprocess the data. It is also possible to include the text information.
-2. With "mpg" as the target, build predictors using the lesson learned in this class. These predictors can take any of the remaining data as long as they can predict good gas efficiency.
-3. Split the data into train and test.
-4. Evaluate and visualize the predictor performance. 
+2. With "mpg" as the target, build predictors using the lesson learned in this class. These predictors can take any of the remaining data.
+3. Split the data into train and test and evaluate and visualize the predictors' performance. 
 
 -The submission will be a notebook (.ipynb), with sufficient explanation like the class materials. The total points for the final project is 60.
 
