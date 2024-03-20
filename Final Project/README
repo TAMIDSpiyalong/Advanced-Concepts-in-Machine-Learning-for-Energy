@@ -4,7 +4,7 @@
 3. Split the data into train and test.
 4. Evaluate and visualize the predictor performance. 
 
--The submission will be a notebook (.ipynb), with sufficient explanation like the class materials.
+-The submission will be a notebook (.ipynb), with sufficient explanation like the class materials. The total points for the final project is 60.
 
 -Please use the "Auto" dataset. 
 This dataset was taken from the StatLib library, which is maintained at Carnegie Mellon University. 
