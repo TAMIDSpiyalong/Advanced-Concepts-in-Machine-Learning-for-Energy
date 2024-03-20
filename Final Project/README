@@ -6,7 +6,7 @@
 
 -The submission will be a notebook (.ipynb), with sufficient explanation like the class materials.
 
--Please use the "Auto" dataset from https://www.kaggle.com/datasets/piyalong/dataset-for-icpe-639. 
+-Please use the "Auto" dataset. 
 This dataset was taken from the StatLib library, which is maintained at Carnegie Mellon University. 
 The dataset was used in the 1983 American Statistical Association Exposition. 
 The data set has 392 observations with 9 variables.
