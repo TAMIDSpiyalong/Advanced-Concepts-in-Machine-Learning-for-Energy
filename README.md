@@ -1,3 +1,3 @@
 # Introduction-to-Machine-Learning-for-Energy
 
-Materials for the course ICPE 639. Data can be found on Canvas. 
+Code for course ICPE 639. Dataset can be found at https://www.kaggle.com/datasets/piyalong/dataset-for-icpe-639. 
