@@ -11,7 +11,7 @@ source class/bin/activate
 
 python -m pip install --upgrade pip
 pip install jupyter
-pip install tensorflow
-pip install torch torchvision torchaudio
+pip install tensorflow==2.15.0
+pip install torch==2.2.1 torchvision torchaudio
 pip install pandas
 pip install matplotlib
