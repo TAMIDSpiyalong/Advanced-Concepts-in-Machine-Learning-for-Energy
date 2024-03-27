@@ -7,7 +7,7 @@ ml
 
 python --version
 virtualenv --system-site-packages class
-source myenv/bin/activate
+source class/bin/activate
 
 python -m pip install --upgrade pip
 pip install jupyter
