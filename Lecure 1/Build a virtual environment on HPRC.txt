@@ -6,7 +6,7 @@ ml GCC/11.3.0 OpenMPI/4.1.4 TensorFlow/2.11.0-CUDA-11.7.0
 ml
 
 python --version
-virtualenv --system-site-packages myenv
+virtualenv --system-site-packages class
 source myenv/bin/activate
 
 python -m pip install --upgrade pip
