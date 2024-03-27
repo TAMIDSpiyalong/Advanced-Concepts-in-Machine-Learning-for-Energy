@@ -15,3 +15,5 @@ pip install tensorflow==2.15.0
 pip install torch==2.2.1 torchvision torchaudio
 pip install pandas
 pip install matplotlib
+pip install tensorflow_datasets
+pip install seaborn
