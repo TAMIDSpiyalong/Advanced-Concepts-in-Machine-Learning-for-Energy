@@ -1,12 +1,12 @@
 -Track 1:
-1. Load the data Auto.csv and preprocess the data. It is also possible to include the text information.
+1. Load the data Auto.csv and preprocess the data. It is also possible to include the text information. Split the data into train and test. 
 2. With "mpg" as the target, build predictors using the lesson learned in this class. 
 3. Train the model and test it on a seperated testing portion.
 4. Evaluate and visualize the predictors' performance. 
 
 -Track 2: 
-1. Investigate the energy anomally detection folder and split the data.
-2. Build a predictor using the feature and labels. This predictor can be based on previous antocoder or GAN models in the class. 
+1. Investigate the energy-anomaly-detection.csv and prepare the data. Split the data into train and test. 
+2. Build a predictor with "anomaly" as the target. This predictor can be based on previous antocoder or GAN models in the class. 
 3. Test the predictor on the test data and report the the evaluation.
 
 -The submission will be a notebook (.ipynb), with sufficient explanation like the class materials. The total points for the final project is 60.
