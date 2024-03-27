@@ -5,8 +5,8 @@
 4. Evaluate and visualize the predictors' performance. 
 
 -Track 2: 
-1. Investigate the energy anomally detection folder and prepare the data.
-2. Build a predictor using the training feature and labels. This predictor can be based on previous antocoder or GAN models in the class. 
+1. Investigate the energy anomally detection folder and split the data.
+2. Build a predictor using the feature and labels. This predictor can be based on previous antocoder or GAN models in the class. 
 3. Test the predictor on the test data and report the the evaluation.
 
 -The submission will be a notebook (.ipynb), with sufficient explanation like the class materials. The total points for the final project is 60.
