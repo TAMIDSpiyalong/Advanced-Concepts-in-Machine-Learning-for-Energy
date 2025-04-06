@@ -1,5 +1,7 @@
 cd $SCRATCH
 ml purge
+ml spider tensorflow
+ml spider TensorFlow/2.11.0-CUDA-11.7.0
 ml GCC/11.3.0 OpenMPI/4.1.4 TensorFlow/2.11.0-CUDA-11.7.0
 ml
 
@@ -13,8 +15,4 @@ pip install tensorflow==2.18.0
 pip install torch==2.6.0 torchvision torchaudio
 pip install pandas
 pip install matplotlib
-pip install tensorflow_datasets
-pip install seaborn
-pip install scikit-learn
-
 
