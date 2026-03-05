@@ -3,7 +3,6 @@ create_venv dl_train -d "Environment for training my deep learning model" -t "CU
 
 source activate_venv dl_train
 
-pip install jupyter
 python -m pip install --upgrade pip
 pip install jupyter
 pip install tensorflow==2.15.0
@@ -11,6 +10,7 @@ pip install torch==2.6.0 torchvision==0.21.0 torchaudio==2.6.0
 pip install pandas==2.2.2
 pip install matplotlib==3.10.1
 pip install numpy==1.24.4
+
 
 
 
