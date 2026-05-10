@@ -10,3 +10,5 @@ pip install torch torchvision torchaudio
 pip install pandas
 pip install matplotlib
 pip install numpy
+
+In the HPRC interface, select /scratch/training/rcs/2026 for the environment. 
